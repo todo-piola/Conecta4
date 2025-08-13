@@ -1,6 +1,6 @@
-# Conecta4
-Conecta 4 | Connect 4
-Español
+# Conecta 4 | Connect 4
+
+# **Castellano**
 
 Este proyecto es una implementación del clásico juego Conecta 4 utilizando Java y JavaFX. El objetivo es que dos jugadores coloquen sus fichas de forma alternada en un tablero vertical hasta que uno logre alinear cuatro fichas del mismo color en línea horizontal, vertical o diagonal.
 Reglas básicas del juego
